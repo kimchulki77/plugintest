@@ -1,0 +1,162 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.megster.cordova.bluetoothserial": {
+        "source": {
+            "type": "registry",
+            "id": "com.megster.cordova.bluetoothserial"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "am.armsoft.plugins.ListPicker": {
+        "source": {
+            "type": "registry",
+            "id": "am.armsoft.plugins.ListPicker"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.pbernasconi.progressindicator": {
+        "source": {
+            "type": "registry",
+            "id": "org.pbernasconi.progressindicator"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "nl.x-services.plugins.toast": {
+        "source": {
+            "type": "registry",
+            "id": "nl.x-services.plugins.toast"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.dialogs": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.dialogs"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "io.litehelpers.cordova.sqlite": {
+        "source": {
+            "type": "registry",
+            "id": "io.litehelpers.cordova.sqlite"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.splashscreen": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.splashscreen"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.inappbrowser": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.inappbrowser"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.network-information": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.network-information"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "nl.x-services.plugins.socialsharing": {
+        "source": {
+            "type": "registry",
+            "id": "nl.x-services.plugins.socialsharing"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.camera": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.camera"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.device"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.media": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.media"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.file": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.file"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.vibration": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.vibration"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.clone.phonegap.plugins.PushPlugin": {
+        "source": {
+            "type": "registry",
+            "id": "com.clone.phonegap.plugins.PushPlugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.console": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.console"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.contacts": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.contacts"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.geolocation": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.geolocation"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

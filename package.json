@@ -1,0 +1,44 @@
+{
+  "name": "SampleApp",
+  "version": "0.0.0",
+  "description": "Sample App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "plugins": 
+["cordova-plugin-whitelist",
+  "com.megster.cordova.bluetoothserial",
+  "am.armsoft.plugins.ListPicker",
+  "org.pbernasconi.progressindicator",
+  "nl.x-services.plugins.toast",
+  "org.apache.cordova.dialogs",
+  "io.litehelpers.cordova.sqlite",
+  "org.apache.cordova.splashscreen",
+  "org.apache.cordova.inappbrowser",
+  "org.apache.cordova.network-information",
+  "nl.x-services.plugins.socialsharing",
+  "org.apache.cordova.camera",
+  "org.apache.cordova.device",
+  "org.apache.cordova.media",
+  "org.apache.cordova.file",
+ "org.apache.cordova.vibration",
+"com.clone.phonegap.plugins.PushPlugin",
+"org.apache.cordova.console",
+"org.apache.cordova.contacts",
+"org.apache.cordova.geolocation"
+  ],
+  "devDependencies": {
+    "load-grunt-tasks": "~0.4.0",
+    "time-grunt": "~0.3.1",
+    "grunt": "~0.4.4",
+    "grunt-shell": "~0.6.4"
+  },
+  "dependencies": {}
+}
